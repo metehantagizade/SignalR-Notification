@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SignalRNotificationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Notifications">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SenderUserId" Type="Int32" Nullable="false" />
+    <Property Name="ReceiverUserId" Type="Int32" />
+    <Property Name="SendDate" Type="DateTime" Precision="3" />
+    <Property Name="SeenDate" Type="DateTime" Precision="3" />
+    <Property Name="NotificationTypeId" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="SignalRNotificationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Notifications" EntityType="Self.Notifications" />
+  </EntityContainer>
+</Schema>

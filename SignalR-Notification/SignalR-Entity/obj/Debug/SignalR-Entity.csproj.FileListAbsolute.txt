@@ -1,0 +1,11 @@
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\SignalR-Entity.dll.config
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\SignalR-Entity.dll
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\SignalR-Entity.pdb
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\EntityFramework.dll
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\EntityFramework.xml
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\obj\Debug\SignalR-Entity.csproj.CoreCompileInputs.cache
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\obj\Debug\SignalR-Entity.dll
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\obj\Debug\SignalR-Entity.pdb
+D:\github\SignalR-Notification\SignalR-Notification\SignalR-Notification\SignalR-Entity\obj\Debug\SignalR-Entity.csprojResolveAssemblyReference.cache
