@@ -33,7 +33,7 @@ to do this follow steps bellow <br/>
 ### Step Five
   The final step is about adding javascript code inside Layout
   When a notification added to database <b>notificationHub.client.notify</b> from Layout will be call and inside tihs function notification panel will be updated.
-  Dont Remember to add Home Controller and <b>GetNotificationContacts</b> action result inside it
+  Dont Remember to add Home Controller and <b>GetNotificationContacts</b> action result inside it<br/>
   And inside Global.ajax we shuld start and stop <b>SqlDependency</b>
 
 
