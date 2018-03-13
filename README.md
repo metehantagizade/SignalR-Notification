@@ -38,5 +38,5 @@ to do this follow steps bellow <br/>
 
 
 
-Note that for SignalR to use WebSocket, IIS 8 or IIS 8 Express must be used, the server must be using Windows 8, Windows Server 2012, or later, and WebSocket must be enabled in IIS. For information on how to enable WebSocket in IIS,<br/>
+Note that for SignalR to use WebSocket, IIS 8 or IIS 8 Express must be used, the server must be using Windows 8, Windows Server 2012, or later, and WebSocket must be enabled in IIS. For information on how to enable WebSocket in IIS, Click link bellow<br/>
 https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-8/iis-80-websocket-protocol-support
